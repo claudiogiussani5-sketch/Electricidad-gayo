@@ -1,0 +1,1 @@
+V90 PRUEBA: Trabajos chicos con cliente opcional; Gallito muestra transcripcion y registra cobros por voz SOLO despues de confirmar. No publicar sin probar. Los datos se guardan en el navegador.
